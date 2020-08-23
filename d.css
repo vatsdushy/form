@@ -1,5 +1,27 @@
 div{
     background-color:lightgreen;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px;
+    margin: left;
 }
-body {
-margin:0px;}
+body{
+    margin: 0px;
+    padding: 0%;
+}
+#button{
+    text-align: left;
+}
+#email{
+    margin-right: -20;
+}
+#age  {
+    margin-right: 25;
+}
+#birthday{
+    margin-right: 36;
+}
+
+#phone{
+    margin-left:20px;
+}
